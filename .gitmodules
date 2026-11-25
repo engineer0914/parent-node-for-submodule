@@ -1,0 +1,3 @@
+[submodule "childfunc1"]
+	path = childfunc1
+	url = https://github.com/engineer0914/child-node-for-submodule
